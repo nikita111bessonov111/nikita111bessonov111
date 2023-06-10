@@ -1,6 +1,6 @@
 # Портфолио 
 
-![Фото](https://media.licdn.com/dms/image/D4E16AQHP0nG91K9…eta&t=2qw8W7XM_9_304TyhM1CZh-JZWZkRcgvS2hSYL-1hIY
+![Фото]([https://media.licdn.com/dms/image/D4E16AQHP0nG91K9…eta&t=2qw8W7XM_9_304TyhM1CZh-JZWZkRcgvS2hSYL-1hIY](https://media.licdn.com/dms/image/D4E16AQHP0nG91K9BPw/profile-displaybackgroundimage-shrink_350_1400/0/1686402313553?e=1691625600&v=beta&t=2qw8W7XM_9_304TyhM1CZh-JZWZkRcgvS2hSYL-1hIY)
 )
 
 ## Обо мне

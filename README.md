@@ -20,7 +20,8 @@
 - ![Figma](https://example.com/figma-icon.png) Figma
 - ![Android Studio](https://example.com/androidstudio-icon.png) Android Studio (Android Emulator)
 - ![Xcode](https://example.com/xcode-icon.png) Xcode (XCTest, UI Testing)
-- ![Python][(https://example.com/python-icon.png)](https://img.icons8.com/?size=1x&id=Rc0Xn5AtE8kX&format=gif) Python
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+
 - ![Selenium WebDriver](https://example.com/selenium-icon.png) Selenium WebDriver
 - ![Appium](https://example.com/appium-icon.png) Appium
 

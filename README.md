@@ -9,6 +9,7 @@
 ## Навыки и инструменты
 
 ![Android](https://img.icons8.com/color/48/000000/android-os.png) Android
+[![IMG-0351.jpg](https://i.postimg.cc/JzbTd5j3/IMG-0351.jpg)](https://postimg.cc/K18r1Lq4)
 - ![iOS](https://example.com/ios-icon.png) iOS
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab
 - ![Jira](https://example.com/jira-icon.png) Jira

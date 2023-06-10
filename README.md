@@ -8,7 +8,7 @@
 
 ## Навыки и инструменты
 
-- ![Android]([https://example.com/android-icon.png](https://icons8.com/icon/114425/android-os) Android
+![Android](https://img.icons8.com/color/48/000000/android-os.png) Android
 - ![iOS](https://example.com/ios-icon.png) iOS
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab
 - ![Jira](https://example.com/jira-icon.png) Jira

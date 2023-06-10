@@ -1,6 +1,6 @@
 # Портфолио 
 
-![Фото][(https://i.ibb.co/F3SdL42/photo-output-3.jpg)](https://i.postimg.cc/W35CY1mG/photo-output-3.jpg) 
+![Фото](https://i.postimg.cc/W35CY1mG/photo-output-3.jpg)
 
 
 ## Обо мне

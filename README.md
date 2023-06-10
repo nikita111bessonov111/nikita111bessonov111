@@ -1,6 +1,6 @@
 # Портфолио 
 
-![Фото](https://i.postimg.cc/W35CY1mG/photo-output-3.jpg)
+![Фото]([https://i.postimg.cc/W35CY1mG/photo-output-3.jpg](https://i.postimg.cc/nz1j66MY/Blue-Modern-Technology-Linked-In-Banner-1.png))
 
 ## Обо мне
 

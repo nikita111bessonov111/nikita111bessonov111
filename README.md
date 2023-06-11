@@ -12,7 +12,8 @@
 [![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
 
 
-  ![IOS](https://icons8.com/icon/20822/ios-logo) 
+  ![iOS](https://img.icons8.com/ios-filled/50/000000/apple-ios-logo.png) iOS
+
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab
 - ![Jira](https://example.com/jira-icon.png) Jira
 - ![Nitrate](https://example.com/nitrate-icon.png) Nitrate

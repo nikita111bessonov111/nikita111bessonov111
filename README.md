@@ -12,7 +12,7 @@
 [![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
 
 [![icons8-ios-50.png](https://i.postimg.cc/gjHhbJcJ/icons8-ios-50.png)](https://postimg.cc/0Krjp9wR)
-![iOS](https://img.icons8.com/ios-filled/50/000000/apple-ios-logo.png)
+[![icons8-ios-50-1.png](https://i.postimg.cc/L4x4wL2P/icons8-ios-50-1.png)](https://postimg.cc/pyntn99V)
 
 
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab

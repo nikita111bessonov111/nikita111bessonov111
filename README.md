@@ -14,7 +14,7 @@
 [![icons8-gitlab-48.png](https://i.postimg.cc/288ppK2j/icons8-gitlab-48.png)](https://postimg.cc/XXh1dxRt)
 [![icons8-jira-48.png](https://i.postimg.cc/76s35b8W/icons8-jira-48.png)](https://postimg.cc/62Z2SWQr)
 [![postman-macos-bigsur-icon-189815.png](https://i.postimg.cc/sfPBHvNd/postman-macos-bigsur-icon-189815.png)](https://postimg.cc/4ndNmNGB)
-[![figma-logo-icon-171159.png](https://i.postimg.cc/G2CLvjrB/figma-logo-icon-171159.png)](https://postimg.cc/qt1HTyN0)
+[![figma-logo-icon-170157.png](https://i.postimg.cc/DyZ2Q0Vc/figma-logo-icon-170157.png)](https://postimg.cc/3Ws5YKxy)
 
 
 

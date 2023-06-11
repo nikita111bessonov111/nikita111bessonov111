@@ -9,7 +9,7 @@
 ## Навыки и инструменты
 
 ![Android](https://img.icons8.com/color/48/000000/android-os.png) Android
-[![Custom Icon](https://timeweb.com/ru/community/article/cc/cc80ce9459e66652beff9cec4f47baf7.jpg)](https://timeweb.com)
+[![Webp-net-resizeimage.jpg](https://i.postimg.cc/gjWYq2KY/Webp-net-resizeimage.jpg)](https://postimg.cc/N9dqQYVV)
 
 
 - ![iOS](https://example.com/ios-icon.png) iOS

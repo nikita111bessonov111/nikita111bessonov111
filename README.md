@@ -8,7 +8,8 @@
 
 ## Связь со мной 
 
-• (mailto:nikita111bessonov@gmail.com) [![Email](https://i.postimg.cc/FRbGWhSr/icons8-mail-94.png)]
+• [![Email](https://i.postimg.cc/FRbGWhSr/icons8-mail-94.png)](mailto:nikita111bessonov@gmail.com)
+
 
 
 

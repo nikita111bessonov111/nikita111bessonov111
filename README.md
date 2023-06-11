@@ -10,10 +10,12 @@
 
 ![Android](https://img.icons8.com/color/48/000000/android-os.png) 
 [![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
+[![Webp-net-resizeimage.png](https://i.postimg.cc/RFsF7H0w/Webp-net-resizeimage.png)](https://postimg.cc/wyNgH3LB)
 
-[![icons8-ios-50.png](https://i.postimg.cc/gjHhbJcJ/icons8-ios-50.png)](https://postimg.cc/0Krjp9wR)
-[![icons8-ios-50-1.png](https://i.postimg.cc/L4x4wL2P/icons8-ios-50-1.png)](https://postimg.cc/pyntn99V)
-[![icons8-ios-64.png](https://i.postimg.cc/c4QWZ3NT/icons8-ios-64.png)](https://postimg.cc/WhbCwhzJ)
+
+
+
+
 
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab
 - ![Jira](https://example.com/jira-icon.png) Jira

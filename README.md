@@ -17,14 +17,14 @@
 [![figma-logo-icon-170157.png](https://i.postimg.cc/DyZ2Q0Vc/figma-logo-icon-170157.png)](https://postimg.cc/3Ws5YKxy)
 [![android-studio-alt-macos-bigsur-icon-190394.png](https://i.postimg.cc/RVyzcTLM/android-studio-alt-macos-bigsur-icon-190394.png)](https://postimg.cc/6yrSKnPS)
 [![xcode-helper-macos-bigsur-icon-189446.png](https://i.postimg.cc/KzGXZpx5/xcode-helper-macos-bigsur-icon-189446.png)](https://postimg.cc/PLRVy4LL)
+![Python](https://img.icons8.com/color/48/000000/python.png) Python
+[![selenium-logo-icon-249659.png](https://i.postimg.cc/rwx752pJ/selenium-logo-icon-249659.png)](https://postimg.cc/ZWYfhgpB)
 
 
 
 
 
-
-
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+ 
 
 - ![Selenium WebDriver](https://example.com/selenium-icon.png) Selenium WebDriver
 - ![Appium](https://example.com/appium-icon.png) Appium

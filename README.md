@@ -10,6 +10,7 @@
 
 [![Email](https://i.postimg.cc/wTVWFgNx/icons8-mail-48.png)](mailto:nikita111bessonov@gmail.com)
 [![LinkedIn](https://i.postimg.cc/fR8xSb9X/icons8-linkedin-48.png)](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%B1%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BE%D0%B2-b7124a245/)
+[![Telegram](https://i.postimg.cc/7Y3gnVpg/icons8-telegram-48.png)](https://t.me/NikitaBessonov111)
 
 
 

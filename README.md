@@ -13,12 +13,6 @@
 
 
 
-
-
-Телефон: +123456789 ![Phone](ссылка на иконку телефона)
-LinkedIn: [Ваш профиль в LinkedIn](ссылка на ваш профиль) ![LinkedIn](ссылка на иконку LinkedIn)
-
-
 ## Навыки и инструменты
 
 ![Android](https://img.icons8.com/color/48/000000/android-os.png) 

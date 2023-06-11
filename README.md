@@ -12,7 +12,7 @@
 [![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
 [![Webp-net-resizeimage.png](https://i.postimg.cc/RFsF7H0w/Webp-net-resizeimage.png)](https://postimg.cc/wyNgH3LB)
 
-[![Webp-net-resizeimage.png](https://i.postimg.cc/RFsF7H0w/Webp-net-resizeimage.png)](https://postimg.cc/wyNgH3LB)
+
 
 
 

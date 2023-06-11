@@ -8,6 +8,13 @@
 
 ## Связь со мной 
 
+- Электронная почта: [nikita111bessonov@gmail.com](mailto:nikita111bessonov@gmail.com) [![Email](https://i.postimg.cc/FRbGWhSr/icons8-mail-94.png)](mailto:nikita111bessonov@gmail.com)
+
+
+
+[![icons8-mail-94.png](https://i.postimg.cc/FRbGWhSr/icons8-mail-94.png)](https://postimg.cc/DJZqmk5H)
+
+
 Электронная почта: nikita111bessonov@gmail.com ![Email]([![Google-icon-icons-com-66793.png](https://i.postimg.cc/pXzJVWrP/Google-icon-icons-com-66793.png)](https://postimg.cc/GH3yq1vf))
 Телефон: +123456789 ![Phone](ссылка на иконку телефона)
 LinkedIn: [Ваш профиль в LinkedIn](ссылка на ваш профиль) ![LinkedIn](ссылка на иконку LinkedIn)

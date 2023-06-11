@@ -16,6 +16,7 @@
 [![postman-macos-bigsur-icon-189815.png](https://i.postimg.cc/sfPBHvNd/postman-macos-bigsur-icon-189815.png)](https://postimg.cc/4ndNmNGB)
 [![figma-logo-icon-170157.png](https://i.postimg.cc/DyZ2Q0Vc/figma-logo-icon-170157.png)](https://postimg.cc/3Ws5YKxy)
 [![android-studio-alt-macos-bigsur-icon-190394.png](https://i.postimg.cc/RVyzcTLM/android-studio-alt-macos-bigsur-icon-190394.png)](https://postimg.cc/6yrSKnPS)
+[![xcode-helper-macos-bigsur-icon-189446.png](https://i.postimg.cc/KzGXZpx5/xcode-helper-macos-bigsur-icon-189446.png)](https://postimg.cc/PLRVy4LL)
 
 
 
@@ -23,8 +24,6 @@
 
 
 
-- ![Android Studio](https://example.com/androidstudio-icon.png) Android Studio (Android Emulator)
-- ![Xcode](https://example.com/xcode-icon.png) Xcode (XCTest, UI Testing)
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 
 - ![Selenium WebDriver](https://example.com/selenium-icon.png) Selenium WebDriver

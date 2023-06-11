@@ -8,8 +8,8 @@
 
 ## Навыки и инструменты
 
-![Android](https://img.icons8.com/color/48/000000/android-os.png) Android
-[![Webp-net-resizeimage.jpg](https://i.postimg.cc/gjWYq2KY/Webp-net-resizeimage.jpg)](https://postimg.cc/N9dqQYVV)
+![Android](https://img.icons8.com/color/48/000000/android-os.png) 
+[![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
 
 
 - ![iOS](https://example.com/ios-icon.png) iOS

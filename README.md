@@ -12,12 +12,12 @@
 [![Webp-net-resizeimage.png](https://i.postimg.cc/RFsF7H0w/Webp-net-resizeimage.png)](https://postimg.cc/wyNgH3LB)
 [![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
 [![icons8-gitlab-48.png](https://i.postimg.cc/288ppK2j/icons8-gitlab-48.png)](https://postimg.cc/XXh1dxRt)
+[![icons8-jira-48.png](https://i.postimg.cc/76s35b8W/icons8-jira-48.png)](https://postimg.cc/62Z2SWQr)
 
 
 
 
-- ![GitLab](https://example.com/gitlab-icon.png) GitLab
-- ![Jira](https://example.com/jira-icon.png) Jira
+
 - ![Nitrate](https://example.com/nitrate-icon.png) Nitrate
 - ![JMeter](https://example.com/jmeter-icon.png) JMeter
 - ![Postman](https://example.com/postman-icon.png) Postman

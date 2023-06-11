@@ -17,16 +17,11 @@
 [![figma-logo-icon-170157.png](https://i.postimg.cc/DyZ2Q0Vc/figma-logo-icon-170157.png)](https://postimg.cc/3Ws5YKxy)
 [![android-studio-alt-macos-bigsur-icon-190394.png](https://i.postimg.cc/RVyzcTLM/android-studio-alt-macos-bigsur-icon-190394.png)](https://postimg.cc/6yrSKnPS)
 [![xcode-helper-macos-bigsur-icon-189446.png](https://i.postimg.cc/KzGXZpx5/xcode-helper-macos-bigsur-icon-189446.png)](https://postimg.cc/PLRVy4LL)
-![Python](https://img.icons8.com/color/48/000000/python.png) Python
+![Python](https://img.icons8.com/color/48/000000/python.png) 
 [![Webp-net-resizeimage-1.png](https://i.postimg.cc/63yk2247/Webp-net-resizeimage-1.png)](https://postimg.cc/JDC6Shqm)
 
 
 
-
- 
-
-- ![Selenium WebDriver](https://example.com/selenium-icon.png) Selenium WebDriver
-- ![Appium](https://example.com/appium-icon.png) Appium
 
 
 ## Проекты

@@ -13,7 +13,7 @@
 
 [![icons8-ios-50.png](https://i.postimg.cc/gjHhbJcJ/icons8-ios-50.png)](https://postimg.cc/0Krjp9wR)
 [![icons8-ios-50-1.png](https://i.postimg.cc/L4x4wL2P/icons8-ios-50-1.png)](https://postimg.cc/pyntn99V)
-
+[![icons8-ios-64.png](https://i.postimg.cc/c4QWZ3NT/icons8-ios-64.png)](https://postimg.cc/WhbCwhzJ)
 
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab
 - ![Jira](https://example.com/jira-icon.png) Jira

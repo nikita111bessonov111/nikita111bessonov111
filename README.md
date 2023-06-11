@@ -10,8 +10,9 @@
 
 ![Android](https://img.icons8.com/color/48/000000/android-os.png) 
 [![Webp-net-resizeimage-1.jpg](https://i.postimg.cc/d3wYZSq3/Webp-net-resizeimage-1.jpg)](https://postimg.cc/TL7SZ05v)
-[![iOS](https://img.icons8.com/ios-filled/50/000000/apple-ios-logo.png)](https://icons8.com/icon/20822/ios-logo)
 
+[![icons8-ios-50.png](https://i.postimg.cc/gjHhbJcJ/icons8-ios-50.png)](https://postimg.cc/0Krjp9wR)
+![iOS](https://img.icons8.com/ios-filled/50/000000/apple-ios-logo.png)
 
 
 - ![GitLab](https://example.com/gitlab-icon.png) GitLab

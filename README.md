@@ -14,14 +14,14 @@
 [![icons8-gitlab-48.png](https://i.postimg.cc/288ppK2j/icons8-gitlab-48.png)](https://postimg.cc/XXh1dxRt)
 [![icons8-jira-48.png](https://i.postimg.cc/76s35b8W/icons8-jira-48.png)](https://postimg.cc/62Z2SWQr)
 [![postman-macos-bigsur-icon-189815.png](https://i.postimg.cc/sfPBHvNd/postman-macos-bigsur-icon-189815.png)](https://postimg.cc/4ndNmNGB)
+[![figma-logo-icon-171159.png](https://i.postimg.cc/G2CLvjrB/figma-logo-icon-171159.png)](https://postimg.cc/qt1HTyN0)
 
 
 
 
 
 
-- ![Postman](https://example.com/postman-icon.png) Postman
-- ![BloomRPC](https://example.com/bloomrpc-icon.png) BloomRPC
+
 - ![Figma](https://example.com/figma-icon.png) Figma
 - ![Android Studio](https://example.com/androidstudio-icon.png) Android Studio (Android Emulator)
 - ![Xcode](https://example.com/xcode-icon.png) Xcode (XCTest, UI Testing)

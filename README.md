@@ -1,9 +1,7 @@
 [![Black-Technology-Linked-In-Banner-2.png](https://i.postimg.cc/jj65pDWL/Black-Technology-Linked-In-Banner-2.png)](https://postimg.cc/FfRNcsV4)
 
 
-## Обо мне [![Webp-net-resizeimage-2.png](https://i.postimg.cc/Gp0kWN2m/Webp-net-resizeimage-2.png)](https://postimg.cc/xXRJH6Mw)
-
-Опытный мануальный тестировщик с фокусом на обеспечение качества программного обеспечения. В настоящее время я также активно развиваю свои навыки в области автотестирования на языке Python. Помогал разработчикам и другим членам команды при тестировании приложений для достижения практических результатов. Осуществлял отслеживание и регистрацию дефектов, разрабатывал и реализовывал тест-кейсы для обеспечения полного покрытия функциональности приложений. Мой вклад также включал анализ результатов тестирования, составление отчетов о производительности приложений и выявленных проблемах. Кроме того, я аккуратно вел документацию, включая разработку чек-листов для обеспечения полноты и точности тестирования.
+[![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/9Fk9WwLM/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/vcWThTFF)
 
 ## Связь со мной [![Webp-net-resizeimage-3.png](https://i.postimg.cc/P5qwBHTH/Webp-net-resizeimage-3.png)](https://postimg.cc/0bLjwLzX)
 

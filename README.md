@@ -1,4 +1,4 @@
-[![Yellow-Monochrome-Photo-Linked-In-Banner.png](https://i.postimg.cc/KYVG7FCv/Yellow-Monochrome-Photo-Linked-In-Banner.png)](https://postimg.cc/zLCY8mJ9)
+[![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/mZYPMFXh/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/Lhs4FhMM)
 
 
 ## Обо мне [![Webp-net-resizeimage-2.png](https://i.postimg.cc/Gp0kWN2m/Webp-net-resizeimage-2.png)](https://postimg.cc/xXRJH6Mw)

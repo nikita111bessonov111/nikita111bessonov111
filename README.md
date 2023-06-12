@@ -1,4 +1,4 @@
-[![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/vZgGscKG/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/XrbRK73P)
+[![Black-Technology-Linked-In-Banner-2.png](https://i.postimg.cc/jj65pDWL/Black-Technology-Linked-In-Banner-2.png)](https://postimg.cc/FfRNcsV4)
 
 
 ## Обо мне [![Webp-net-resizeimage-2.png](https://i.postimg.cc/Gp0kWN2m/Webp-net-resizeimage-2.png)](https://postimg.cc/xXRJH6Mw)

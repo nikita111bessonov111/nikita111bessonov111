@@ -1,4 +1,4 @@
-[![Black-Minimalist-Motivation-Quote-Linked-In-Banner.png](https://i.postimg.cc/2y550Pq6/Black-Minimalist-Motivation-Quote-Linked-In-Banner.png)](https://postimg.cc/KkdFzpDS)
+[![Black-Technology-Linked-In-Banner.png](https://i.postimg.cc/VvpP8TND/Black-Technology-Linked-In-Banner.png)](https://postimg.cc/Mf7F09VQ)
 
 # [![Webp-net-resizeimage-2.png](https://i.postimg.cc/XJFMvqvc/Webp-net-resizeimage-2.png)](https://postimg.cc/5YxK7xL6) Привет! Меня зовут Никита 
 

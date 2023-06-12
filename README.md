@@ -1,4 +1,4 @@
-[![IMG-0379.jpg](https://i.postimg.cc/90XbXtMS/IMG-0379.jpg)](https://postimg.cc/0M3DcS7d)
+[![Black-Technology-Linked-In-Banner-1.png](https://i.postimg.cc/dQdZDTdN/Black-Technology-Linked-In-Banner-1.png)](https://postimg.cc/vDYZNT05)
 
 # [![Webp-net-resizeimage-2.png](https://i.postimg.cc/XJFMvqvc/Webp-net-resizeimage-2.png)](https://postimg.cc/5YxK7xL6) Привет! Меня зовут Никита 
 

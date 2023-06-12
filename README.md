@@ -1,7 +1,6 @@
-# [![Webp-net-resizeimage-2.png](https://i.postimg.cc/XJFMvqvc/Webp-net-resizeimage-2.png)](https://postimg.cc/5YxK7xL6) Привет! Меня зовут Никита 
-
 [![Black-Minimal-Motivation-Quote-Linked-In-Banner.png](https://i.postimg.cc/4xn7xTy1/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)](https://postimg.cc/fVnT8px3)
 
+# [![Webp-net-resizeimage-2.png](https://i.postimg.cc/XJFMvqvc/Webp-net-resizeimage-2.png)](https://postimg.cc/5YxK7xL6) Привет! Меня зовут Никита 
 
 ## Обо мне [![Webp-net-resizeimage-2.png](https://i.postimg.cc/Gp0kWN2m/Webp-net-resizeimage-2.png)](https://postimg.cc/xXRJH6Mw)
 

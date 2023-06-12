@@ -1,6 +1,5 @@
 [![Yellow-Monochrome-Photo-Linked-In-Banner.png](https://i.postimg.cc/KYVG7FCv/Yellow-Monochrome-Photo-Linked-In-Banner.png)](https://postimg.cc/zLCY8mJ9)
 
-# [![Webp-net-resizeimage-2.png](https://i.postimg.cc/XJFMvqvc/Webp-net-resizeimage-2.png)](https://postimg.cc/5YxK7xL6) Привет! Меня зовут Никита 
 
 ## Обо мне [![Webp-net-resizeimage-2.png](https://i.postimg.cc/Gp0kWN2m/Webp-net-resizeimage-2.png)](https://postimg.cc/xXRJH6Mw)
 
